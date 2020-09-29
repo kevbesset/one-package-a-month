@@ -18,6 +18,5 @@ Any type of package is also eligible. From the simple reusable tool, boilerplate
 
 ## Packages
 
-### August 2020
-
-- [BEM Transition](https://github.com/kevbesset/bem-transition) A VueJs package for transition with BEM compliance
+- **August 2020** [BEM Transition](https://github.com/kevbesset/bem-transition) A VueJs package for transition with BEM compliance
+- **September 2020** [Theme changer](https://github.com/kevbesset/theme-changer) A VueJs component to handle live theme changing with custom animation
